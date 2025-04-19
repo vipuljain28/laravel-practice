@@ -28,7 +28,7 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/vipuljain28/laravel-practice.git
    cd laravel-practice
    ```
 
